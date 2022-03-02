@@ -4,4 +4,4 @@
 
 ![Alt text](pics/C610A-UserConfiguration.png?raw=true "C610A Konfiguration")
 
-![Alt text](pics/C610A-C610A-WeitereKonfigurationen.png?raw=true "C610A Advanced")
+![Alt text](pics/C610A-WeitereKonfigurationen.png?raw=true "C610A Advanced")
